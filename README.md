@@ -1,3 +1,4 @@
+![gitHub-banner](https://github.com/AnnaMnesia/AnnaMast/assets/95618481/743d8180-eeeb-4a0a-a716-d7ddf22be1c8)
 
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
