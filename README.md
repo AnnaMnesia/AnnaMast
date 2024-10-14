@@ -4,7 +4,7 @@
 
 ### I'm Anna, a Full Stack Developer! 
 
-####Driven Fullstack Developer with expertise in JavaScript, specialising in React. My background in marketing enhances my ability to design intuitive user interfaces and effectively communicate product value. Experienced in developing REST APIs, I am eager to contribute to innovative teams in dynamic organisations. Committed to continuous improvement and dedicated to driving success in collaborative environments.
+#### Driven Fullstack Developer with expertise in JavaScript, specialising in React. My background in marketing enhances my ability to design intuitive user interfaces and effectively communicate product value. Experienced in developing REST APIs, I am eager to contribute to innovative teams in dynamic organisations. Committed to continuous improvement and dedicated to driving success in collaborative environments.
 
 <hr>
 
