@@ -1,10 +1,10 @@
-![gitHub-banner](https://github.com/AnnaMnesia/AnnaMast/assets/95618481/743d8180-eeeb-4a0a-a716-d7ddf22be1c8)
+![gitHub-banner](https://github.com/user-attachments/assets/dc5d80ba-a995-4ecc-8e41-05e78387b5b7)
 
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm Anna, a Full Stack Developer & Designer! 
+### I'm Anna, a Full Stack Developer! 
 
-#### I recently completed a year-long programming training and now thrive as a Frontend Developer & Designer. My passion lies in crafting seamless user experiences and captivating designs. I specialize in JavaScript, especially React and Express frameworks. I love the challenge of bringing ideas to life through code, whether it's frontend interfaces or backend systems. With my keen eye for design, I ensure projects not only function flawlessly but also look visually stunning. I'm proficient in Figma for wireframes, prototypes, and mockups, allowing me to create engaging digital experiences.
+####Driven Fullstack Developer with expertise in JavaScript, specialising in React. My background in marketing enhances my ability to design intuitive user interfaces and effectively communicate product value. Experienced in developing REST APIs, I am eager to contribute to innovative teams in dynamic organisations. Committed to continuous improvement and dedicated to driving success in collaborative environments.
 
 <hr>
 
@@ -21,10 +21,12 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" /> &nbsp; &nbsp;
-
+  <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="python" /> &nbsp; &nbsp;
 
 #### Currently learning 
-  <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="python" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js" /> &nbsp; &nbsp;
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="typescript" /> &nbsp; &nbsp;
+ 
   
 <hr>
 
