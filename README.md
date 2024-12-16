@@ -12,6 +12,7 @@
 #### Languages and Technologies
   <img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/REACT-1C1C1C?style=for-the-badge&logo=react&logoColor=white" alt="react" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/NODEJS-F8F08F0?style=for-the-badge&logo=nodejs&logoColor=black" alt="nodejs" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-F8F8FF?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb" /> &nbsp; &nbsp;
@@ -25,7 +26,6 @@
   <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="python" /> &nbsp; &nbsp;
 
 #### Currently learning 
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js" /> &nbsp; &nbsp;
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="typescript" /> &nbsp; &nbsp;
  
   
