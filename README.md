@@ -1,10 +1,8 @@
 ![gitHub-banner](https://github.com/user-attachments/assets/dc5d80ba-a995-4ecc-8e41-05e78387b5b7)
 
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anna! 
 
-### I'm Anna! 
-
-#### I’m a skilled Full Stack Developer with a passion for solving complex problems and delivering high-quality solutions. With expertise in front-end technologies like JavaScript, React, Next.js, HTML/CSS and back-end technologies such as Node.js, Python, MongoDB and more, I’ve successfully contributed to multiple projects, collaborating seamlessly with teams to meet deadlines and exceed expectations.
+#### A skilled Full Stack Developer with a passion for solving complex problems and delivering high-quality solutions. With expertise in front-end technologies like JavaScript, React, Next.js, HTML/CSS and back-end technologies such as Node.js, Python, MongoDB and more, I’ve successfully contributed to multiple projects, collaborating seamlessly with teams to meet deadlines and exceed expectations.
 
 #### Known for my attention to detail, technical expertise, and proactive mindset, I thrive in dynamic environments where I can innovate and make an impact. 
 #### Let’s connect to explore how I can bring value to your team!
