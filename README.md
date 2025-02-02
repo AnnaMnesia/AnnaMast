@@ -2,10 +2,15 @@
 
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anna! 
 
-#### A skilled Full Stack Developer with a passion for solving complex problems and delivering high-quality solutions. With expertise in front-end technologies like JavaScript, React, Next.js, HTML/CSS and back-end technologies such as Node.js, Python, MongoDB and more, I’ve successfully contributed to multiple projects, collaborating seamlessly with teams to meet deadlines and exceed expectations.
+#### I'm a Full Stack Developer with a focus on crafting seamless, high-performance web interfaces. While experienced across the stack, my passion lies in frontend development—delivering responsive, accessible, and user-focused experiences through clean, maintainable code. 
 
-#### Known for my attention to detail, technical expertise, and proactive mindset, I thrive in dynamic environments where I can innovate and make an impact. 
-#### Let’s connect to explore how I can bring value to your team!
+#### With experience in startups and product-driven environments, I collaborate closely with designers and backend teams to bring ideas to life. My work emphasizes scalability, performance, and attention to detail, creating polished, intuitive applications.
+
+## Core Skills  
+- **Frontend Development**: React, Next.js, TypeScript, Redux  
+- **Styling**: HTML5, CSS3, TailwindCSS, Material UI  
+- **Backend & API Integration**: Node.js  
+- **DevOps**: Git, CI/CD workflows  
 
 <hr>
 
@@ -24,9 +29,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="python" /> &nbsp; &nbsp;
-
-#### Currently learning 
-  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="typescript" /> &nbsp; &nbsp;
  
   
 <hr>
