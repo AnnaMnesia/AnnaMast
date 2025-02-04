@@ -1,5 +1,3 @@
-![gitHub-banner](https://github.com/user-attachments/assets/dc5d80ba-a995-4ecc-8e41-05e78387b5b7)
-
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anna! 
 
 #### I'm a Full Stack Developer with a focus on crafting seamless, high-performance web interfaces. While experienced across the stack, my passion lies in frontend development—delivering responsive, accessible, and user-focused experiences through clean, maintainable code. 
