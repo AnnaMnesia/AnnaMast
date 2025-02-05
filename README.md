@@ -34,5 +34,5 @@
 ### Social Media
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AnnaMnesia)](https://github.com/AnnaMnesia)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-mastoridou-280189271/)](https://www.linkedin.com/in/anna-mastoridou-280189271/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=portfolio&logoColor=white&link=https://a2n2studio.netlify.app)](https://a2n2studio.netlify.app)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=portfolio&logoColor=white&link=https://portfolio-anna-mastoridou.vercel.app)](https://portfolio-anna-mastoridou.vercel.app)
 
